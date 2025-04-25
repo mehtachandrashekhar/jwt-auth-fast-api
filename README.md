@@ -183,18 +183,3 @@ _Get current user details (requires authentication)_
 **MIT License**
 
 ---
-
-> This README includes:
-> - Badges for visual appeal  
-> - Clear feature list  
-> - Complete installation instructions  
-> - API documentation  
-> - Postman testing guide  
-> - Environment variables reference  
-> - License information  
-
-_You can customize it further by:_
-- Adding deployment instructions  
-- Including screenshots  
-- Adding contribution guidelines  
-- Adding links to related resources
